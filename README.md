@@ -1,3 +1,3 @@
 # Leetcode
 Leetcode
-Leetcode 结题总结  
+Leetcode 解题总结  
